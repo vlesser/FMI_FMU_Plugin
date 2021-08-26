@@ -1,0 +1,6 @@
+C:\Users\vlesser\source\repos\FMI_FMU_Plugin\obj\Debug\FMI_FMU_Plugin.csprojAssemblyReference.cache
+C:\Users\vlesser\source\repos\FMI_FMU_Plugin\bin\Debug\FMI_FMU_Plugin.exe.config
+C:\Users\vlesser\source\repos\FMI_FMU_Plugin\bin\Debug\FMI_FMU_Plugin.exe
+C:\Users\vlesser\source\repos\FMI_FMU_Plugin\bin\Debug\FMI_FMU_Plugin.pdb
+C:\Users\vlesser\source\repos\FMI_FMU_Plugin\obj\Debug\FMI_FMU_Plugin.exe
+C:\Users\vlesser\source\repos\FMI_FMU_Plugin\obj\Debug\FMI_FMU_Plugin.pdb
